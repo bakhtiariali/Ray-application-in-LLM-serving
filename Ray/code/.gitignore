@@ -1,0 +1,13 @@
+models/
+__pycache__/
+venv/
+.DS_Store
+.env
+.env.*
+*.log
+*.egg-info/
+build/
+dist/
+.idea/
+.vscode/
+benchmark_results_*.json
