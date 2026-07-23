@@ -4,3 +4,6 @@ torch
 datasets
 httpx
 accelerate
+psutil
+numpy
+matplotlib

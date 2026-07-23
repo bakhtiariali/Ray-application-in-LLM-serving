@@ -1,0 +1,12 @@
+{
+  "scaling_log": [],
+  "capacity": {
+    "calibrated": false,
+    "samples": 6,
+    "a": 0.0,
+    "b": 0.0,
+    "c": 0.0,
+    "prefill_rate": 50.0,
+    "decode_rate": 8.0
+  }
+}

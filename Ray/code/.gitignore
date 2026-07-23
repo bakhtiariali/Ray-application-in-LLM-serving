@@ -10,4 +10,5 @@ build/
 dist/
 .idea/
 .vscode/
+/Docs
 benchmark_results_*.json
